@@ -1,0 +1,3 @@
+[submodule "ipod_tools"]
+	path = ipod_tools
+	url = https://github.com/nims11/IPod-Shuffle-4g.git
